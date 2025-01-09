@@ -10,7 +10,7 @@ The total business was managed by dividing it into microservices. And RabbitMQ w
 <p>-RabbitMQ was used to communicate the services</p>
 <p>-Outbox-Inbox design pattern</p>
 <p>-Caching</p>
-<p>-Quartz library for jobs</p>p>
+<p>-Quartz library for jobs</p>
 <p>-Logging</p>
 
 
